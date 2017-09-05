@@ -6,7 +6,8 @@ namespace EPI_in_CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("count = " + Ch4_primitive_types.countBits(7).ToString());
+            float.Parse("1.23");
         }
     }
 }
